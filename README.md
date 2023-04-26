@@ -42,6 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ### Upgrading Node
 
 `sudo npm install -g n`
+
 `sudo n lts`
 
 You might need to open another terminal and check your Node version:
